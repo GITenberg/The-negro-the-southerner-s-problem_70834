@@ -1,0 +1,34 @@
+_repo: The-negro-the-southerner-s-problem_70834
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Page, Thomas Nelson
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '184'
+    url: http://www.gutenberg.org/2009/agents/184
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Nelson_Page
+description: ''
+gutenberg_issued: '2023-05-22'
+identifiers:
+  gutenberg: '70834'
+  lccn: 04034917
+language: en
+pgterms:marc904: https://archive.org/details/southernersprobl00pagerich/page/n7/mode/2up
+pgterms:marc905: 20220315075531page
+pgterms:marc906: '1904'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcsh 'United States -- Race relations'
+- !lcc 'E151'
+- GITenberg
+title: 'The negro: the southerner''s problem'
+url: http://www.gutenberg.org/ebooks/70834
